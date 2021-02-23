@@ -6,11 +6,11 @@ document.addEventListener("mousemove", function (e) {
 
 //  nav script
 function openNav() {
-    document.getElementById("mySidenav").style.maxwidth = "100%";
+    document.getElementById("mySidenav").style.width = "100%";
 }
 
 function closeNav() {
-    document.getElementById("mySidenav").style.maxwidth = "0";
+    document.getElementById("mySidenav").style.width = "0";
 }
 
 // 
